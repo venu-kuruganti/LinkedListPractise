@@ -1,0 +1,8 @@
+C:\Users\venuk\Documents\Practise Projects\LinkedListPractise\bin\Debug\LinkedListPractise.exe.config
+C:\Users\venuk\Documents\Practise Projects\LinkedListPractise\bin\Debug\LinkedListPractise.exe
+C:\Users\venuk\Documents\Practise Projects\LinkedListPractise\bin\Debug\LinkedListPractise.pdb
+C:\Users\venuk\Documents\Practise Projects\LinkedListPractise\obj\Debug\LinkedListPractise.csproj.AssemblyReference.cache
+C:\Users\venuk\Documents\Practise Projects\LinkedListPractise\obj\Debug\LinkedListPractise.csproj.SuggestedBindingRedirects.cache
+C:\Users\venuk\Documents\Practise Projects\LinkedListPractise\obj\Debug\LinkedListPractise.csproj.CoreCompileInputs.cache
+C:\Users\venuk\Documents\Practise Projects\LinkedListPractise\obj\Debug\LinkedListPractise.exe
+C:\Users\venuk\Documents\Practise Projects\LinkedListPractise\obj\Debug\LinkedListPractise.pdb
